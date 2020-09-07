@@ -8,7 +8,7 @@ from discord.utils import get
 from async_timeout import timeout
 from discord.ext import commands
 
-TOKEN = 'NzUyMDgzNzE4NDk1MjczMTEy.X1Seiw.nFSulPe14VZVoZzxDyRG60zRo7s'
+TOKEN = 'ZVG5xuJZVDq9-MtTFKwj1ItLGjZWmLB2'
 
 client =commands.Bot(command_prefix = '.')
 
